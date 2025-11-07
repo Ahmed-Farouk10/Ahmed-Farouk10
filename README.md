@@ -2,10 +2,15 @@
 <!-- 🌌 Ahmed Ayman Farouk Shahin | Dark Space-Themed GitHub README -->
 <!-- ============================================================= -->
 
-<!-- Centered Name and Title -->
+  <p align="center">
+  <img src="assets/stars.gif" width="100%" alt="twinkling stars background"><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
+
 <h1 align="center">
   ✨ Hi, I'm <span style="color:#4EA8DE;">Ahmed Ayman Farouk Shahin</span> 👋
 </h1>
+
 
 <p align="center">
   🚀 <b>AI & Software Engineer</b> specializing in <b>Machine Learning</b>, <b>Full-Stack Web Development</b>, and <b>Intelligent Systems</b>.<br>
@@ -15,11 +20,6 @@
 <!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
-</p>
-
-<!-- Starry Background Simulation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Farouk10/Ahmed-Farouk10/main/assets/stars.gif" width="100%" alt="twinkling stars background">
 </p>
 
 ---
