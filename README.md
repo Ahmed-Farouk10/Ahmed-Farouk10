@@ -39,7 +39,7 @@ I build scalable applications, develop deep learning models, and design data-dri
 
 ### 📫 Connect with Me
 - 🌍 [Portfolio Website](#) *(link coming soon)*  
-- 💼 [LinkedIn](https://linkedin.com/in/ahmed-ayman-920975317)  
+- 💼 [LinkedIn](www.linkedin.com/in/ahmed-ayman10)  
 - 🧠 [GitHub](https://github.com/Ahmed-Farouk10)  
 - ✉️ Email: **ahmed.aafmms@gmail.com** / **ahmawork04@gmail.com**
 
