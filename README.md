@@ -2,10 +2,6 @@
 <!-- 🌌 Ahmed Ayman Farouk Shahin | Dark Space-Themed GitHub README -->
 <!-- ============================================================= -->
 
-  <p align="center">
-  <img src="assets/stars.gif" width="100%" alt="twinkling stars background"><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
-</p>
 
 <h1 align="center">
   ✨ Hi, I'm <span style="color:#4EA8DE;">Ahmed Ayman Farouk Shahin</span> 👋
