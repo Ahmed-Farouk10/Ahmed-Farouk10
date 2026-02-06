@@ -21,7 +21,7 @@
 ---
 
 ### 💼 About Me
-- 🎓 BSc in **Artificial Intelligence Engineering**, Alamein International University (AIU) — *2021–2025*  
+- 🎓 B.Eng in **Artificial Intelligence Engineering**, Alamein International University (AIU) — *2021–2025*  
 - 💻 Passionate about solving real-world problems with **AI**, **data**, and **automation**.  
 - 🌐 Based in **Alexandria, Egypt**  
 - 🪐 Enthusiast of **space design**, **UI polish**, and **neural networks**
